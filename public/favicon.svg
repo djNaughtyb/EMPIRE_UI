@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="#1a1a2e"/>
+  <path d="M128 40 L180 70 L180 130 L128 160 L76 130 L76 70 Z" fill="url(#grad)" stroke="#e0e7ff" stroke-width="4"/>
+  <circle cx="128" cy="100" r="20" fill="#1a1a2e"/>
+  <circle cx="100" cy="85" r="8" fill="#1a1a2e"/>
+  <circle cx="156" cy="85" r="8" fill="#1a1a2e"/>
+  <circle cx="100" cy="115" r="8" fill="#1a1a2e"/>
+  <circle cx="156" cy="115" r="8" fill="#1a1a2e"/>
+  <line x1="76" y1="100" x2="50" y2="100" stroke="#e0e7ff" stroke-width="6"/>
+  <line x1="180" y1="100" x2="206" y2="100" stroke="#e0e7ff" stroke-width="6"/>
+  <line x1="90" y1="145" x2="70" y2="165" stroke="#e0e7ff" stroke-width="6"/>
+  <line x1="166" y1="145" x2="186" y2="165" stroke="#e0e7ff" stroke-width="6"/>
+  <path d="M50 190 L65 175 L65 205 Z" fill="#22d3ee" stroke="#22d3ee" stroke-width="2"/>
+  <path d="M206 190 L191 175 L191 205 Z" fill="#22d3ee" stroke="#22d3ee" stroke-width="2"/>
+  <rect x="70" y="182" width="4" height="16" fill="#22d3ee"/>
+  <rect x="182" y="182" width="4" height="16" fill="#22d3ee"/>
+</svg>
